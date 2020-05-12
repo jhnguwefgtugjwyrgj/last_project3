@@ -82,7 +82,6 @@ pyTelegramBotAPI==3.7.1
 python-dateutil==2.8.1
 python-telegram-bot==12.7
 pytz==2019.3
-pywin32==227
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.0
